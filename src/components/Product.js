@@ -83,6 +83,6 @@ const ProductWrapper = styled.div`
     color: var(--mainWhite);
     font-size: 1.4rem;
     border-radius: 0.5rem 0 0 0;
-    
+    transform: translate(100%, 100%);
   }
 `;
